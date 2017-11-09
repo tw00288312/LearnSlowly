@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearnSlowlyApplication</string>
+    <string name="article_1">
+        To fling is to throw something with force. You\'ll start a food fight in the cafeteria if you fling your vegetables at the kid across the table.
+    </string>
+    <string name="article_2">
+        To flinch is to react to pain by wincing, pulling away, or cringing. Often it\'s used to describe a person who shows a moment of weakness or fright: he was so tough, I thought he'd never flinch, but snakes really freak him out.
+    </string>
+</resources>
